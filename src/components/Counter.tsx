@@ -7,7 +7,7 @@ export default function Counter() {
 //     <button class="increment" onClick={() => "https://google.com"}>
 //       Clicks: {OPEN URL}
 //     </button>
-    <a href="https://google.com" target="_blank">
+    <a href="https://google.com" target="_self">
           start.solidjs.com
         </a>
   );
