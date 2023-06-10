@@ -8,7 +8,7 @@ export default function Counter() {
 //       Clicks: {OPEN URL}
 //     </button>
     <a href="https://google.com" target="_self">
-          start.solidjs.com
+          login without idp
         </a>
   );
 }
