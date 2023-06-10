@@ -7,7 +7,7 @@ export default function Counter() {
 //     <button class="increment" onClick={() => "https://google.com"}>
 //       Clicks: {OPEN URL}
 //     </button>
-    <a href="https://purevpndev.fusionauth.io/oauth2/authorize?code_challenge=t6HLer1y0jZDFGGxw6TXBV1U_vJC9rSZjZWd0OR84sY&redirect_uri=puredome%3A%2F%2Fhome&response_type=code&scope=offline_access&state=8745964D&code_challenge_method=S256&client_id=4c339c2d-05e6-47e8-a195-4d4b7ced8cf1" target="_self">
+    <a href="https://purevpndev.fusionauth.io/oauth2/authorize?code_challenge=0ruJrsmgUnofNuYRmrWxirR9mbi333mHmI7H80Tyr1M&response_type=code&client_id=4c339c2d-05e6-47e8-a195-4d4b7ced8cf1&state=BBDA04DB&code_challenge_method=S256&scope=offline_access&redirect_uri=puredome%3A%2F%2Fhome" target="_self">
           login without idp
         </a>
   );
